@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.17444897, g: 0.21818036, b: 0.30041942, a: 1}
+  m_IndirectSpecularColor: {r: 0.43888786, g: 0.48708236, b: 0.56734717, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -20756,6 +20756,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c00559b37a61ac844a840b9eff591f08, type: 3}
+--- !u!1001 &7477737768611780167
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 191934777861999180, guid: f66f83469b0e8fe459ab51683946d857, type: 3}
+      propertyPath: m_Name
+      value: monster_scavenger_Skin_Red
+      objectReference: {fileID: 0}
+    - target: {fileID: 830503153113577390, guid: f66f83469b0e8fe459ab51683946d857, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 830503153113577390, guid: f66f83469b0e8fe459ab51683946d857, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 830503153113577390, guid: f66f83469b0e8fe459ab51683946d857, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 15.661
+      objectReference: {fileID: 0}
+    - target: {fileID: 830503153113577390, guid: f66f83469b0e8fe459ab51683946d857, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.24454623
+      objectReference: {fileID: 0}
+    - target: {fileID: 830503153113577390, guid: f66f83469b0e8fe459ab51683946d857, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 830503153113577390, guid: f66f83469b0e8fe459ab51683946d857, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.96963763
+      objectReference: {fileID: 0}
+    - target: {fileID: 830503153113577390, guid: f66f83469b0e8fe459ab51683946d857, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 830503153113577390, guid: f66f83469b0e8fe459ab51683946d857, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 830503153113577390, guid: f66f83469b0e8fe459ab51683946d857, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 151.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 830503153113577390, guid: f66f83469b0e8fe459ab51683946d857, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f66f83469b0e8fe459ab51683946d857, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -20780,3 +20837,4 @@ SceneRoots:
   - {fileID: 1330215874}
   - {fileID: 8434516}
   - {fileID: 1476501762}
+  - {fileID: 7477737768611780167}
